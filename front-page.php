@@ -440,9 +440,15 @@
 		<article id="setup" class="container special">
 			<header>
 				<h2><a href="#">Set Up</a></h2>
+<<<<<<< HEAD
 			<span class="byline">
 				Consider this an open invitation to set up a local contributor day where ever you are!
 			</span>
+=======
+				<span class="byline">
+					Consider this an open invitation to set up a local contributor day where ever you are!
+				</span>
+>>>>>>> 5a63aedfc6bc729cd7ae47aa045187666efeaf0a
 			</header>
 			<p>
 				It is an ideal event for a user group to host.
